@@ -38,3 +38,46 @@ text similarity analysis with skill-based matching.
 ---
 
 ## Project Structure
+
+AI-Resume-Screening-System
+│
+├── app.py
+├── README.md
+├── requirements.txt
+│
+└── sample_data
+     ├── resume.txt
+     └── job_description.txt
+
+## Example Output
+     ====== AI RESUME SCREENING RESULT ======
+
+Base Match Score     : 32.21%
+Skill Match Boost    : +25.00%
+Final Match Score    : 57.21%
+
+Matched Skills:
+data analysis, machine learning, natural language processing, python, scikit-learn
+
+Missing Skills (to improve resume):
+None
+
+---
+
+## How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/Somya-Alex-git/AI-Resume-Screening-System.git
+
+2. Navigate to the project folder
+
+cd AI-Resume-Screening-System
+
+3. Install required dependencies
+
+pip install -r requirements.txt
+
+4. Run the application
+
+python app.py
