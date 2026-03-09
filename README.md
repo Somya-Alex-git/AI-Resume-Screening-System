@@ -83,5 +83,6 @@ pip install -r requirements.txt
 python app.py
 
 ## Live Demo
-Try the app here: https://your-app-name.streamlit.app
+Try the app here: https://ai-resume-screening-system-ef7x686qjjjenzbzhyxaxf.streamlit.app/
+
 
