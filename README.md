@@ -81,3 +81,7 @@ pip install -r requirements.txt
 4. Run the application
 
 python app.py
+
+## Live Demo
+Try the app here: https://your-app-name.streamlit.app
+
