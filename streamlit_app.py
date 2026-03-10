@@ -74,9 +74,11 @@ def login():
 # Main application
 def app():
 
-    st.title("🤖 AI Resume Screening System")
+st.title("🤖 AI Resume Screening System")
 
-    st.write("Upload your resume and compare it with a job description to calculate match score.")
+st.image("banner.png", use_column_width=True)
+
+st.write("Upload your resume and compare it with a job description to calculate match score.")
 
     # Optional image placeholder
     # st.image("assets/banner.png", use_column_width=True)
